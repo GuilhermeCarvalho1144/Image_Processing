@@ -1,2 +1,2 @@
-"# Image_Processing" 
-# on this repository are implements programs for image processing ussing Matlab
+# Image_Processing_Matlab 
+# on this repository are implemented programs for image processing using Matlab
